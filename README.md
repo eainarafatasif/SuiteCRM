@@ -25,7 +25,9 @@ SuiteCRM is an open-source CRM software that offers robust tools for managing cu
 [Extensions Directory](https://store.suitecrm.com/) |
 [Translations](https://crowdin.com/project/suitecrmtranslations) | [Code of Conduct](https://docs.suitecrm.com/community/code-of-conduct/)
 
-<img src="(https://f.hellowork.com/bdmtools/2022/10/suitecrm-outil-1.jpg)"  />
+![](https://f.hellowork.com/bdmtools/2022/10/suitecrm-outil-1.jpg)
+
+
 
 [SuiteCRM](https://suitecrm.com) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 
